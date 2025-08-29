@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Veronica G Ramos",
+  "photo": "https://avatars.githubusercontent.com/u/209039192?v=4",
+  "job": "Aspirante a QA Tester e Front-end dev",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 99999-9999",
+  "email": "veronicagramos77@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -34,7 +34,6 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +41,32 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
+    "Inglês (avançado)",
     "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Japonês (iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desafio Yu-Gi-Oh | Jo-ken-po Edition",
+      "url": "https://github.com/VeronicaR77/js-yugioh-desafio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desafio JS Developer - Pokedex",
+      "url": "https://github.com/VeronicaR77/js-developer-pokedex",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Auxiliar de TI",
+      "period": "02/2023 - 02/2025",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
+      "name": "Auxiliar Administrativo",
+      "period": "01/2022 - 10/2022",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
 }
